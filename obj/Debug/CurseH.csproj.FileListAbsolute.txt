@@ -1,0 +1,22 @@
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.exe.config
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.exe
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.pdb
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.csproj.AssemblyReference.cache
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.DiskInfoForm.resources
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.MainForm.resources
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace_Monitoring_Tool.Properties.Resources.resources
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.csproj.GenerateResource.cache
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.csproj.CoreCompileInputs.cache
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.exe
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.pdb
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\bin\Debug\amogus.exe.config
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\bin\Debug\amogus.exe
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\bin\Debug\amogus.pdb
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.csproj.AssemblyReference.cache
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.DiskInfoForm.resources
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.MainForm.resources
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\obj\Debug\amogus.Properties.Resources.resources
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.csproj.GenerateResource.cache
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.csproj.CoreCompileInputs.cache
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\obj\Debug\amogus.exe
+D:\Desk\w213\FreeDiskSpace Monitoring Tool\obj\Debug\amogus.pdb

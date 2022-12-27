@@ -1,0 +1,34 @@
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.exe
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.pdb
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace_Monitoring_Tool.DiskInfoForm.resources
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace_Monitoring_Tool.MainForm.resources
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace_Monitoring_Tool.Properties.Resources.resources
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace_Monitoring_Tool.SetCriticalForm.resources
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.exe
+C:\Users\Admin\Desktop\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.pdb
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.csproj.AssemblyReference.cache
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace_Monitoring_Tool.DiskInfoForm.resources
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace_Monitoring_Tool.MainForm.resources
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace_Monitoring_Tool.Properties.Resources.resources
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.csproj.GenerateResource.cache
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.csproj.CoreCompileInputs.cache
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.exe
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.pdb
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.exe.config
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.exe
+C:\Users\dziar\Desktop\Курсовой проект\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.pdb
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.exe.config
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.exe
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\bin\Debug\FreeDiskSpace Monitoring Tool.pdb
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.csproj.AssemblyReference.cache
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace_Monitoring_Tool.Properties.Resources.resources
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.csproj.GenerateResource.cache
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.csproj.CoreCompileInputs.cache
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.exe
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\FreeDiskSpace Monitoring Tool.pdb
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.DiskInfoForm.resources
+D:\Desk\мусорник\¦ЪTГTАTБ¦-¦-¦-¦¦ ¦¬TА¦-¦¦¦¦TВ\FreeDiskSpace_Monitoring_Tool-master\FreeDiskSpace Monitoring Tool\obj\Debug\CurseH.MainForm.resources
